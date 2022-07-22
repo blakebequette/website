@@ -1,0 +1,15 @@
+# mywebsite
+
+Here are some local changes. 
+
+Here are some branch changes.
+
+Updates made on master GitHub before the rebase. 
+
+Demo change. 
+
+<<<<<<< HEAD
+Yodel yodel on my own machine.
+=======
+Big monkey. 
+>>>>>>> 120dfb07cf9eeae3e14af94032511e9bdf35aab0
